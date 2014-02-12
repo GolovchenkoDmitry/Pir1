@@ -8,3 +8,8 @@ int main()
 	return 0;
 	//bla bla bla 2
 }
+
+int bl()
+{
+	return 0;
+}
